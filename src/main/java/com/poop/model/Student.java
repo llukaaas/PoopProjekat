@@ -1,4 +1,4 @@
-package com.janko.model;
+package com.poop.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
